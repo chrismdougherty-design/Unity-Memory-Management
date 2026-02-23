@@ -61,9 +61,7 @@ Image Cycling Controls (in ResourceTester.cs)
 
 Control	Action
 
- 	Space	Toggle auto-cycling mode - continuously cycles through all 5 images (3 seconds each)
-		Right Arrow	Next image - manually show the next texture, stops auto-cycling
-		Left Arrow	Previous image - manually show the previous texture, stops auto-cycling
+ 		Space	Toggle auto-cycling mode - continuously cycles through all 5 images (3 seconds each)
 		M	Display all images simultaneously using multiple pooled displays
 		U	Unload a texture from memory
 		C	Clear cache and hide all displays
